@@ -1,4 +1,5 @@
 # week five core ip
+<<<<<<< HEAD
 A simple flask project template with Bootstrap, a full testing suite.
 
 ## Install project
@@ -20,3 +21,5 @@ Deployment:
 
 ## License
 Licensed under the MIT license. See the bundled LICENSE file for more details.
+=======
+>>>>>>> a8165f18aa68c21ebec03dcfb976efa4eedd6547
